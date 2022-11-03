@@ -10,7 +10,7 @@ body {
     display: flex;
     width: 350px;
     height: 100vh;
-    background-color: #ff5722;
+    background-color: coral;
     align-content: center;
     align-items: center;
     justify-content: center;
