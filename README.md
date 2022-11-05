@@ -1,8 +1,7 @@
-# Trabalho
-
+## Trabalho
 - Disciplina: `HTML/CSS`
 
-## Objetivo
+## Objetivos
 - Aplicação dos conhecimentos e aprendizagens de forma prática e individual
 - Clone do modelo de página requisitado
 
