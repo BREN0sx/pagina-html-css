@@ -2,11 +2,11 @@
 ## Done
 <div style="display: flex; justify-content:space-between;">
   <div>
-    <span>Solicitado</span>
+    <h4>Solicitado</h4>
     <img src="https://i.imgur.com/CdJEJEK.png" style="width: 444px;">
   </div>
   <div>
-    <span>Feito</span>
+    <h4>Feito</h4>
     <img src="https://i.imgur.com/AnhW1xx.png" style="width: 476px;">
   </div>
 </div>
